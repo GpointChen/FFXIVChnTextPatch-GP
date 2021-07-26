@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_HEAVNZ810_01940_SEQ_00","田園郡的哈夫西克斯正在計划著惡作劇。"
+0,"TEXT_HEAVNZ810_01940_SEQ_00","田園郡的哈夫西克斯正在計畫著惡作劇。"
 1,"TEXT_HEAVNZ810_01940_SEQ_01","接受哈夫西克斯的委託，在青藍之手出沒的地方設定<hex:022811FF0A>EventItem<hex:F61E8B300103>。在龍堡內陸低地的薩雷安精製區的<hex:02280CFF05>EObj<hex:F61E9B720103>上，設定3個<hex:022811FF0A>EventItem<hex:F61E8B300103>。"
 2,"TEXT_HEAVNZ810_01940_SEQ_02","將<hex:022811FF0A>EventItem<hex:F61E8B300103>設定完畢。向田園郡的哈夫西克斯報告。"
 3,"TEXT_HEAVNZ810_01940_SEQ_03","向哈夫西克斯報告完畢。設定的<hex:022811FF0A>EventItem<hex:F61E8B300103>可以妨礙青藍之手的通信，得知自己的惡作劇已經設定完畢後哈夫西克斯表示非常期待。"

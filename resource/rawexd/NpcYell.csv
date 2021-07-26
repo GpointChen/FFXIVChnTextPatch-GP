@@ -9490,7 +9490,7 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 9485,0,2,False,False,False,4,1,False,False,10,"物資儲備達到指定量，可以開始本期最後的工程了！"
 9486,0,2,False,False,False,4,1,False,False,10,"請使用物資建造「重建公告板」和「食堂」！"
 9487,0,2,False,False,False,4,1,False,False,10,"廣場這邊的聯合重建工程就要划上句號了！<hex:02100103>大家最後再加把勁！"
-9488,9043,2,False,False,False,4,1,False,False,10,"這工程進度完全不達標啊？！<hex:02100103>看來只能中止作業，重新制定計划了……"
+9488,9043,2,False,False,False,4,1,False,False,10,"這工程進度完全不達標啊？！<hex:02100103>看來只能中止作業，重新制定計畫了……"
 9489,0,2,False,False,False,2,3,True,False,1,"我感受到了強大的力量！"
 9490,0,2,False,False,False,2,3,True,False,1,"交給我吧！"
 9491,0,2,False,False,False,2,3,True,False,1,"沒問題！"
