@@ -1334,7 +1334,7 @@ int32,str
 1358,COLOR PICKER
 1359,顏色選擇
 1360,<hex:020960E802FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E8030103><hex:FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E8030103><hex:FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E8030103><hex:03>
-1361,精製魔晶石：<hex:020812E1E80201FF04>可<hex:FF07>不可<hex:03>　武具投影：<hex:020812E1E80301FF04>可<hex:FF07>不可<hex:03>　<hex:02083CE1E80401FF1F>建議分解技能：<hex:022003E80503>.00<hex:FF16>道具分解：不可<hex:03>
+1361,精製魔晶石:<hex:020812E1E80201FF04>可<hex:FF07>不可<hex:03>　武具投影:<hex:020812E1E80301FF04>可<hex:FF07>不可<hex:03>　<hex:020838E1E80401FF1D>建議分解技能:<hex:022003E80503>.00<hex:FF14>道具分解:不可<hex:03>
 1362,？
 1363,???%
 1364,/
@@ -1605,7 +1605,7 @@ int32,str
 1656,套裝列表
 1657,物品：裝備/消耗品
 1658,物品：外部裝潢/內部裝潢/庭具/家具
-1659,<hex:020854E1E80201FF37>建議分解技能：<hex:022003E80303>.00 ［<hex:02280EFF09>ClassJob<hex:E8020103>］<hex:FF16>道具分解：不可<hex:03>
+1659,<hex:020850E1E80201FF35>建議分解技能:<hex:022003E80303>.00 ［<hex:02280EFF09>ClassJob<hex:E8020103>］<hex:FF14>道具分解:不可<hex:03>
 1660,
 1661,★
 1662,●
